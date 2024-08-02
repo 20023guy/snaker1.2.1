@@ -19,4 +19,4 @@ document.getElementById("Lore").addEventListener("click", function() {
 
 // Alerts for warnings and version
 alert("WARNING: THIS IS BETA VERSION OF THE GAME. BUGS AND GLITCHES EXIST.");
-alert("Welcome to Snake for spc. Version beta 1.3");
+alert("Welcome to Snake for spc. Version beta 1.2.1");
